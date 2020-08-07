@@ -1,0 +1,4 @@
+BasedOnStyle: LLVM
+IndentWidth: 2
+# keep existing line breaks
+ColumnLimit: 0
